@@ -89,6 +89,10 @@ This project highlights the strengths and differences between **PySpark** and **
 - **PySpark** is suitable for **large-scale** data processing and distributed computation.
 - **Scikit-learn** is efficient and performs well for **smaller datasets**, providing tools for rapid model training.
 - Both tools offer **feature importance** insights that are crucial for understanding model behavior and making informed decisions.
+
+## Python Version:
+3.11 - Latest Pyspark verion is not compatible with the latest python version.
+
   
 ## How to Run the Project
 
